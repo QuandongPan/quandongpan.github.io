@@ -13,33 +13,43 @@ format-links: [pdf]
 
 ::: {.print-only .contact-block}
 quandong.pan\@email.uni-freiburg.de
+
+Website: <https://quandongpan.github.io/>
 :::
 
 ## “Embrace Complexity”
 
 > *"There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts."* --- The Science of Complexity
 
-## Fields of Interest:
+## Research Interests:
+
+-   I am driven to understand the **fundamental principles** of processes like **pattern formation, morphogenesis, and regeneration**, through modeling the intricate **dynamics** of **gene regulatory networks** and the **epigenetic landscape**, ultimately seeking to control these systems through the combined power of **systems biology** and **genetic engineering**.
+
+## Fields of Interest in General:
 
 -   Systems Biology
 
 -   Computational Biology
 
--   Evolutionary biology
+-   Genetic Engineering
 
--   Genetic engineering
+-   Evolutionary Biology
 
--   Regeneration
+-   Developmental Biology
+
+-   Regeneration and Morphogenesis
 
 -   Complex Systems Modeling
 
--   Network Science
+-   Swarm Intelligence
 
--   Collective Intelligence
+-   Network Science
 
 -   Evolutionary Game Theory
 
--   Non-linear Dynamics
+-   Non-linear Dynamics and Attractor Landscape
+
+-   Chaos Theory
 
 ## EDUCATION
 
@@ -73,7 +83,7 @@ International Institute of Child Study, Zhejiang Normal University
 
 \[ 12/10/2021 – 02/12/2022 \]
 
--   The lab focuses on the behavioral correlates with neural mechanisms in the human brain.
+-   The lab focuses on the behavioral correlates of neural mechanisms in the human brain.
 
 -   I was trained on operating controlled EEG experiments on adult college volunteers, supervising them during the task of character recognition, conducting interviews and gathering information.
 
@@ -98,7 +108,9 @@ International Institute of Child Study, Zhejiang Normal University
 
 ## Skills
 
--   Programming Language：R Language (Intermediate), MATLAB and Python (Beginner)
+-   Programming Language：
+
+    -   R Language (Intermediate), MATLAB and Python (Beginner)
 
 -   Software and Platform: R Studio, MATLAB, Github
 
