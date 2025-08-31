@@ -9,8 +9,8 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/quandong-pan-19395a279/
-   #- text: GitHub
-   #  href: https://github.com/QuandongPan
+    - text: GitHub
+      href: https://github.com/QuandongPan
     - text: Email
       href: mailto:quandong.pan@email.uni-freiburg.de
     - text: CV
