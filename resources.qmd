@@ -1,5 +1,6 @@
 ---
-title: "All of my favourite resources!"
+title: "All of my favorite resources!"
 format: html
 ---
 
+[Collection of My Favorite Scientific Talks](https://youtube.com/playlist?list=PL1jvyMBXbpmnjyw4qaLndSN4N-qWnPV05&si=S7EDPiyxRrv7zVzz){.btn .btn-primary}

@@ -12,6 +12,6 @@ about:
     - text: GitHub
       href: https://github.com/QuandongPan
     - text: Email
-      href: mailto:QuandongPan@outlook.com
+      href: mailto:quandong.pan@email.uni-freiburg.de
 ---
         

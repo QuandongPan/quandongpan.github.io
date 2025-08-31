@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quandong Pan",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All of my favorite resources!",
     "section": "",
-    "text": "This is a personal website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Collection of My Favorite Scientific Talks"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,68 @@
     "title": "About",
     "section": "",
     "text": "This is my personal website"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "quandong.pan@email.uni-freiburg.de"
+  },
+  {
+    "objectID": "CV.html#embrace-complexity",
+    "href": "CV.html#embrace-complexity",
+    "title": "Curriculum Vitae",
+    "section": "“Embrace Complexity”",
+    "text": "“Embrace Complexity”\n\n“There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts.” — The Science of Complexity"
+  },
+  {
+    "objectID": "CV.html#fields-of-interest",
+    "href": "CV.html#fields-of-interest",
+    "title": "Curriculum Vitae",
+    "section": "Fields of Interest:",
+    "text": "Fields of Interest:\n\nSystems Biology\nComputational Biology\nEvolutionary biology\nGenetic engineering\nRegeneration\nComplex Systems Modeling\nNetwork Science\nCollective Intelligence\nEvolutionary Game Theory\nNon-linear Dynamics"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nBachelor of Science – Major: Life Sciences\nUniversity of Freiburg\nOct 2022 — Present\nhttps://uni-freiburg.de/ucf/"
+  },
+  {
+    "objectID": "CV.html#work-experience",
+    "href": "CV.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nResearch Internship\nUniversity Hospital Freiburg\n[ 03/04/2024 – 30/04/2024 ]\nThe lab focuses on elucidating the epigenetic mechnisms of caste transition and reversion in Harpegnathos saltator ant:\n\nMy role was primarily focused on conducting behavioral analysis of the Harpegnathos saltator ant colony during its transition phase induced by colony separation.\nOther duties include ant colony maintenance, participating in weekly journal clubs etc.\n\n\n\nResearch Assistant\nHuman Movement and Motor Rehabilitation Laboratory\nInternational Institute of Child Study, Zhejiang Normal University\n[ 12/10/2021 – 02/12/2022 ]\n\nThe lab focuses on the behavioral correlates with neural mechanisms in the human brain.\nI was trained on operating controlled EEG experiments on adult college volunteers, supervising them during the task of character recognition, conducting interviews and gathering information."
+  },
+  {
+    "objectID": "CV.html#conferences",
+    "href": "CV.html#conferences",
+    "title": "Curriculum Vitae",
+    "section": "Conferences",
+    "text": "Conferences\n\nLife Sciences Annual Meeting 2024 in Switzerland\n\n[ 13/02/2024 – 15/02/2024 ] University of Lausanne (UNIL - Amphimax)\n• Bioinformatics, Biophysics, Cardiovascular Biology & Physiology\n• Experimental Pharmacology, Ion Channels and Membrane Transporters Microscopy\n• Molecular and Cellular Biosciences, Proteomics and Systems Biology\nLink: https://annual-meeting.ls2.ch/2024/program\n\nSY-Stem Cell Conference 2024 in Vienna\n\n[ 13/03/2024 – 15/03/2024 ] Vienna, Austria\n• Early Embryogenesis\n• Neural lineage specification\n• Nervous Systems Development\n• Brain Disease, Regeneration and Novel Technologies\nLink: https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024\n\nInterdisciplinary College 2024 in Germany\n\nComputational Neuroscience, Linear Algebra, Machine Learning • Game theory, Theoretical Biology and Complex Dynamical Systems Simulation\nLink: https://interdisciplinary-college.org/#content :::"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Language：R Language (Intermediate), MATLAB and Python (Beginner)\nSoftware and Platform: R Studio, MATLAB, Github"
+  },
+  {
+    "objectID": "CV.html#language-proficiency",
+    "href": "CV.html#language-proficiency",
+    "title": "Curriculum Vitae",
+    "section": "Language Proficiency",
+    "text": "Language Proficiency\n\nChinese (Mother Tongue)\nEnglish\n\nIELTs\n\n(Overall 7.0, Listening 7.0, Reading 7.5, Speaking, 7.5, Writing 6.5)\n\nPTE Academic\n\n(Overall 86, Listening 80, Reading 90, Speaking, 72, Writing 90)\n\n\nGerman B2"
+  },
+  {
+    "objectID": "my-blog.html",
+    "href": "my-blog.html",
+    "title": "Quandong Pan",
+    "section": "",
+    "text": "No matching items"
   }
 ]

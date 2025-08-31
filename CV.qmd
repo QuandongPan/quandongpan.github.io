@@ -1,0 +1,119 @@
+---
+title: "Curriculum Vitae"
+
+format:
+  html:
+    toc: true
+  pdf:
+    author: Quandong Pan
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+quandong.pan\@email.uni-freiburg.de
+:::
+
+## “Embrace Complexity”
+
+> *"There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts."* --- The Science of Complexity
+
+## Fields of Interest:
+
+-   Systems Biology
+
+-   Computational Biology
+
+-   Evolutionary biology
+
+-   Genetic engineering
+
+-   Regeneration
+
+-   Complex Systems Modeling
+
+-   Network Science
+
+-   Collective Intelligence
+
+-   Evolutionary Game Theory
+
+-   Non-linear Dynamics
+
+## EDUCATION
+
+**Bachelor of Science -- Major: Life Sciences**
+
+*University of Freiburg*
+
+*Oct 2022 --- Present*
+
+<https://uni-freiburg.de/ucf/>
+
+## WORK EXPERIENCE {style="page-break-before: no"}
+
+### Research Internship
+
+**University Hospital Freiburg**
+
+\[ 03/04/2024 – 30/04/2024 \]
+
+The lab focuses on elucidating the epigenetic mechnisms of caste transition and reversion in *Harpegnathos saltator* ant:
+
+-   My role was primarily focused on conducting behavioral analysis of the *Harpegnathos saltator* ant colony during its transition phase induced by colony separation.
+
+-   Other duties include ant colony maintenance, participating in weekly journal clubs etc.
+
+### **Research Assistant**
+
+**Human Movement and Motor Rehabilitation Laboratory**
+
+International Institute of Child Study, Zhejiang Normal University
+
+\[ 12/10/2021 – 02/12/2022 \]
+
+-   The lab focuses on the behavioral correlates with neural mechanisms in the human brain.
+
+-   I was trained on operating controlled EEG experiments on adult college volunteers, supervising them during the task of character recognition, conducting interviews and gathering information.
+
+## Conferences
+
+-   Life Sciences Annual Meeting 2024 in Switzerland
+    -   \[ 13/02/2024 – 15/02/2024 \] University of Lausanne (UNIL - Amphimax)
+    -   • Bioinformatics, Biophysics, Cardiovascular Biology & Physiology
+    -   • Experimental Pharmacology, Ion Channels and Membrane Transporters Microscopy
+    -   • Molecular and Cellular Biosciences, Proteomics and Systems Biology
+    -   Link: <https://annual-meeting.ls2.ch/2024/program>
+-   SY-Stem Cell Conference 2024 in Vienna
+    -   \[ 13/03/2024 – 15/03/2024 \] Vienna, Austria
+    -   • Early Embryogenesis
+    -   • Neural lineage specification
+    -   • Nervous Systems Development
+    -   • Brain Disease, Regeneration and Novel Technologies
+    -   Link: <https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024>
+-   Interdisciplinary College 2024 in Germany
+    -   Computational Neuroscience, Linear Algebra, Machine Learning • Game theory, Theoretical Biology and Complex Dynamical Systems Simulation
+    -   Link: <https://interdisciplinary-college.org/#content> :::
+
+## Skills
+
+-   Programming Language：R Language (Intermediate), MATLAB and Python (Beginner)
+
+-   Software and Platform: R Studio, MATLAB, Github
+
+## Language Proficiency
+
+-   Chinese (Mother Tongue)
+
+-   English
+
+    -   IELTs
+
+        -   (Overall 7.0, Listening 7.0, Reading 7.5, Speaking, 7.5, Writing 6.5)
+
+    -   PTE Academic
+
+        -   (Overall 86, Listening 80, Reading 90, Speaking, 72, Writing 90)
+
+-   German B2
