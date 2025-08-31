@@ -51,7 +51,7 @@ Website: <https://quandongpan.github.io/>
 
 -   Chaos Theory
 
-## EDUCATION
+## Education
 
 **Bachelor of Science -- Major: Life Sciences**
 
@@ -61,7 +61,7 @@ Website: <https://quandongpan.github.io/>
 
 <https://uni-freiburg.de/ucf/>
 
-## WORK EXPERIENCE {style="page-break-before: no"}
+## Work Experience {style="page-break-before: no"}
 
 ### Research Internship
 
