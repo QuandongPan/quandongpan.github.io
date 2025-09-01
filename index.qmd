@@ -6,3 +6,18 @@ h1.title {
   text-align: center;
 }
 </style>
+
+
+<div style="margin: auto; text-align: center;">
+
+  <iframe width="1000" height="600" src="https://www.youtube.com/embed/o2orYA_hQrU?si=08ob5JXvBrKcX8ru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+  <p style="font-size: 0.85em; color: #555; max-width: 700px; margin: 10px auto 0;">
+    Zebrafish embryo's developing sensory nervous system (16 hours). <br>
+    <strong>Video by:</strong> Dr. Elizabeth M. Haynes & Jiaye Henry He (University of Wisconsin - Madison). <br>
+    <em>First Place, 2018 Nikon Small World in Motion Competition.</em>
+  </p>
+
+</div>```
+
+

@@ -37,19 +37,23 @@ Website: <https://quandongpan.github.io/>
 
 -   Developmental Biology
 
--   Regeneration and Morphogenesis
+-   Regeneration, Morphogenesis and Self-Organization
+
+-   Multiscale Analysis of Cellular Systems
 
 -   Complex Systems Modeling
 
--   Swarm Intelligence
+-   Swarm Intelligence and Emergence
 
 -   Network Science
 
 -   Evolutionary Game Theory
 
--   Non-linear Dynamics and Attractor Landscape
+-   Non-linear Dynamics
 
--   Chaos Theory
+-   Convergent Evolution of GRNs
+
+-   Attractor Landscape Analysis
 
 ## Education
 
