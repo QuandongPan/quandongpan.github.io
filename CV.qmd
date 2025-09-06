@@ -19,7 +19,7 @@ Website: <https://quandongpan.github.io/>
 
 ## “Embrace Complexity”
 
-> *"There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts."* --- The Science of Complexity
+-   *"There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts." --- The Science of Complexity*
 
 ## Research Interests:
 
@@ -93,34 +93,55 @@ International Institute of Child Study, Zhejiang Normal University
 
 ## Conferences
 
+-   Horizons in Molecular Biology Symposium 2025 in Göttingen
+
+    -   \[ 08/09/2025 – 11/09/2025 \] Max Planck Institute for Multidisciplinary Sciences
+
+    -   Biochemistry and Molecular Biology, Cell Biology
+
+    -   Genome Biology, Developmental Biology
+
+    -   Structural Biology, Molecular Neuroscience, Computational Biology
+
+    -   Link: <https://www.mpinat.mpg.de/horizons>
+
 -   Life Sciences Annual Meeting 2024 in Switzerland
-    -   \[ 13/02/2024 – 15/02/2024 \] University of Lausanne (UNIL - Amphimax)
-    -   • Bioinformatics, Biophysics, Cardiovascular Biology & Physiology
-    -   • Experimental Pharmacology, Ion Channels and Membrane Transporters Microscopy
-    -   • Molecular and Cellular Biosciences, Proteomics and Systems Biology
+
+    -   \[ 13/02/2024 – 15/02/2024 \] University of Lausanne
+    -   Bioinformatics, Biophysics, Cardiovascular Biology & Physiology
+    -   Experimental Pharmacology, Ion Channels and Membrane Transporters Microscopy
+    -   Molecular and Cellular Biosciences, Proteomics and Systems Biology
     -   Link: <https://annual-meeting.ls2.ch/2024/program>
+
 -   SY-Stem Cell Conference 2024 in Vienna
-    -   \[ 13/03/2024 – 15/03/2024 \] Vienna, Austria
-    -   • Early Embryogenesis
-    -   • Neural lineage specification
-    -   • Nervous Systems Development
-    -   • Brain Disease, Regeneration and Novel Technologies
+
+    -   \[ 13/03/2024 – 15/03/2024 \] Vienna BioCenter, Austria
+    -   Early Embryogenesis
+    -   Neural lineage specification
+    -   Nervous Systems Development
+    -   Brain Disease, Regeneration and Novel Technologies
     -   Link: <https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024>
+
 -   Interdisciplinary College 2024 in Germany
-    -   Computational Neuroscience, Linear Algebra, Machine Learning • Game theory, Theoretical Biology and Complex Dynamical Systems Simulation
+
+    -   Computational Neuroscience, Linear Algebra, Machine Learning
+    -   Game theory, Theoretical Biology and Complex Dynamical Systems Simulation
     -   Link: <https://interdisciplinary-college.org/#content> :::
 
 ## Skills
 
 -   Programming Language：
 
-    -   R Language (Intermediate), MATLAB and Python (Beginner)
+    -   R Language (Intermediate)
+    -   MATLAB and Python (Beginner)
 
--   Software and Platform: R Studio, MATLAB, Github
+-   Software and Platform: R Studio, MATLAB, Github, NetLogo
+
+-   Basic Skills in Molecular and Experimental Biology
 
 ## Language Proficiency
 
--   Chinese (Mother Tongue)
+-   Chinese (Native)
 
 -   English
 

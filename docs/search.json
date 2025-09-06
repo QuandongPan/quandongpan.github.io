@@ -53,28 +53,28 @@
     "href": "CV.html#conferences",
     "title": "Curriculum Vitae",
     "section": "Conferences",
-    "text": "Conferences\n\nLife Sciences Annual Meeting 2024 in Switzerland\n\n[ 13/02/2024 – 15/02/2024 ] University of Lausanne (UNIL - Amphimax)\n• Bioinformatics, Biophysics, Cardiovascular Biology & Physiology\n• Experimental Pharmacology, Ion Channels and Membrane Transporters Microscopy\n• Molecular and Cellular Biosciences, Proteomics and Systems Biology\nLink: https://annual-meeting.ls2.ch/2024/program\n\nSY-Stem Cell Conference 2024 in Vienna\n\n[ 13/03/2024 – 15/03/2024 ] Vienna, Austria\n• Early Embryogenesis\n• Neural lineage specification\n• Nervous Systems Development\n• Brain Disease, Regeneration and Novel Technologies\nLink: https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024\n\nInterdisciplinary College 2024 in Germany\n\nComputational Neuroscience, Linear Algebra, Machine Learning • Game theory, Theoretical Biology and Complex Dynamical Systems Simulation\nLink: https://interdisciplinary-college.org/#content :::"
+    "text": "Conferences\n\nHorizons in Molecular Biology Symposium 2025 in Göttingen\n\n[ 08/09/2025 – 11/09/2025 ] Max Planck Institute for Multidisciplinary Sciences\nBiochemistry and Molecular Biology, Cell Biology\nGenome Biology, Developmental Biology\nStructural Biology, Molecular Neuroscience, Computational Biology\nLink: https://www.mpinat.mpg.de/horizons\n\nLife Sciences Annual Meeting 2024 in Switzerland\n\n[ 13/02/2024 – 15/02/2024 ] University of Lausanne\nBioinformatics, Biophysics, Cardiovascular Biology & Physiology\nExperimental Pharmacology, Ion Channels and Membrane Transporters Microscopy\nMolecular and Cellular Biosciences, Proteomics and Systems Biology\nLink: https://annual-meeting.ls2.ch/2024/program\n\nSY-Stem Cell Conference 2024 in Vienna\n\n[ 13/03/2024 – 15/03/2024 ] Vienna BioCenter, Austria\nEarly Embryogenesis\nNeural lineage specification\nNervous Systems Development\nBrain Disease, Regeneration and Novel Technologies\nLink: https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024\n\nInterdisciplinary College 2024 in Germany\n\nComputational Neuroscience, Linear Algebra, Machine Learning\nGame theory, Theoretical Biology and Complex Dynamical Systems Simulation\nLink: https://interdisciplinary-college.org/#content :::"
   },
   {
     "objectID": "CV.html#skills",
     "href": "CV.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\nProgramming Language：\n\nR Language (Intermediate), MATLAB and Python (Beginner)\n\nSoftware and Platform: R Studio, MATLAB, Github"
+    "text": "Skills\n\nProgramming Language：\n\nR Language (Intermediate)\nMATLAB and Python (Beginner)\n\nSoftware and Platform: R Studio, MATLAB, Github, NetLogo\nBasic Skills in Molecular and Experimental Biology"
   },
   {
     "objectID": "CV.html#language-proficiency",
     "href": "CV.html#language-proficiency",
     "title": "Curriculum Vitae",
     "section": "Language Proficiency",
-    "text": "Language Proficiency\n\nChinese (Mother Tongue)\nEnglish\n\nIELTs\n\n(Overall 7.0, Listening 7.0, Reading 7.5, Speaking, 7.5, Writing 6.5)\n\nPTE Academic\n\n(Overall 86, Listening 80, Reading 90, Speaking, 72, Writing 90)\n\n\nGerman B2"
+    "text": "Language Proficiency\n\nChinese (Native)\nEnglish\n\nIELTs\n\n(Overall 7.0, Listening 7.0, Reading 7.5, Speaking, 7.5, Writing 6.5)\n\nPTE Academic\n\n(Overall 86, Listening 80, Reading 90, Speaking, 72, Writing 90)\n\n\nGerman B2"
   },
   {
     "objectID": "my-blog.html",
     "href": "my-blog.html",
     "title": "To be updated…",
     "section": "",
-    "text": "No matching items"
+    "text": "You can find a range of different topics covered in my blog page, it serves both as a documentation of my personal growth and also educational resources to help make scientific knowledge more accessible, unveiling its beauty to the general public.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Beauty of Cilia\n\n\n\nCilia\n\n\n\nblog post description\n\n\n\nQuandong Pan\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "CV.html#research-interests",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Unraveling the Complexity of Life",
     "section": "",
-    "text": "Zebrafish embryo’s developing sensory nervous system (16 hours).  Video by: Dr. Elizabeth M. Haynes & Jiaye Henry He (University of Wisconsin - Madison).  First Place, 2018 Nikon Small World in Motion Competition.\n\n\n```"
+    "text": "Your browser does not support the video tag. \n\n\n\n\n\nBackground Video: Zebrafish embryo’s developing sensory nervous system (16 hours).  By: Dr. Elizabeth M. Haynes & Jiaye Henry He (University of Wisconsin - Madison).  First Place, 2018 Nikon Small World in Motion Competition."
   },
   {
     "objectID": "about.html#research-interests",
@@ -103,5 +103,12 @@
     "title": "Quandong Pan (He/him)",
     "section": "",
     "text": "I am driven to understand the fundamental principles of processes like pattern formation, morphogenesis, and regeneration, through modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of systems biology and genetic engineering."
+  },
+  {
+    "objectID": "posts/Cilia/index.html",
+    "href": "posts/Cilia/index.html",
+    "title": "The Beauty of Cilia",
+    "section": "",
+    "text": "Introduction\nBasic Biology of Cilia\nRole and Function\nWhere is it found\nDifferent forms of cilia in animals\nInteresting research findings\ntake home messages\nhave you ever wondered how does the cilia beating pattern form?\nwhy groups of cilia beating in one direction instead of another?\nwhat’s the role of mucus in shaping cilia beating polarity?\nwhat’s the molecular basis of cilia polarity?\nThese questions will be answered in the next post, stay tuned!\nif you enjoy reading my content, subscribe to my newsletter&gt;&gt;\n\n\n\nCitationBibTeX citation:@online{pan,\n  author = {Pan, Quandong},\n  title = {The {Beauty} of {Cilia}},\n  url = {https://quandongpan.github.io/posts/Cilia/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPan, Quandong. n.d. “The Beauty of Cilia.” https://quandongpan.github.io/posts/Cilia/."
   }
 ]

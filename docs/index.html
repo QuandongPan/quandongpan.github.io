@@ -145,17 +145,51 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
-h1.title {
-  text-align: center;
+/* Style for the main hero banner container */
+.hero-banner {
+  position: relative; /* Positioning the video and text */
+  height: 80vh; /* 80% of the viewport height */
+  overflow: hidden; /* Hide anything that spills out */
+  display: flex; /* Use flexbox to easily center the title */
+  align-items: center;
+  justify-content: center;
+  color: white; /* Set the text color to white for contrast */
 }
+
+/* Style for the background video itself */
+.hero-banner .background-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the video */
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1; /* Place the video BEHIND the text content */
+  object-fit: cover; /* Ensure the video covers the area without stretching */
+}
+
+/* Style for the credit text at the bottom */
+.video-credit {
+  text-align: center;
+  font-size: 0.8em;
+  color: #666;
+  padding-top: 20px;
+}
+
 </style>
-<div style="margin: auto; text-align: center;">
-<p><iframe width="1000" height="600" src="https://www.youtube.com/embed/o2orYA_hQrU?si=08ob5JXvBrKcX8ru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
-<p style="font-size: 0.85em; color: #555; max-width: 700px; margin: 10px auto 0;">
-Zebrafish embryo’s developing sensory nervous system (16 hours). <br> <strong>Video by:</strong> Dr.&nbsp;Elizabeth M. Haynes &amp; Jiaye Henry He (University of Wisconsin - Madison). <br> <em>First Place, 2018 Nikon Small World in Motion Competition.</em>
+<!-- The Hero Banner Section -->
+<div class="hero-banner">
+<p><!-- The HTML5 Video Tag for the background --> <video class="background-video" autoplay="" loop="" muted="" playsinline=""> <source src="media/Zebra Fish Growning its Nervous System.mp4" type="video/mp4"> Your browser does not support the video tag. </video></p>
+<p><!-- The title from the YAML header will be placed here by Quarto --></p>
+</div>
+<!-- The Video Credit Section (placed outside the banner) -->
+<div class="video-credit">
+<p>
+Background Video: Zebrafish embryo’s developing sensory nervous system (16 hours). <br> <strong>By:</strong> Dr.&nbsp;Elizabeth M. Haynes &amp; Jiaye Henry He (University of Wisconsin - Madison). <br> <em>First Place, 2018 Nikon Small World in Motion Competition.</em>
 </p>
 </div>
-<p>```</p>
 
 
 
