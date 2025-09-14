@@ -23,7 +23,7 @@ Website: <https://quandongpan.github.io/>
 
 ## Research Interests:
 
--   I am driven to understand the fundamental principles underlying biological processes like pattern formation, morphogenesis, and regeneration etc, through employing experimental and computational techniques, including scRNA‐seq, multi-omics integration,modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of systems biology and bioengineering.
+-   I am driven to understand the **fundamental principles underlying biological processes** like pattern formation, morphogenesis, and regeneration etc, through employing **experimental and computational techniques**, including scRNA‐seq, multi-omics integration,modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of **systems biology and bioengineering**.
 
 ## Fields of Interest in General:
 
@@ -61,7 +61,7 @@ Website: <https://quandongpan.github.io/>
 
 *Oct 2022 --- Present*
 
-<https://uni-freiburg.de/ucf/>
+<https://uni-freiburg.de/ucf/las/curriculum/#life-sciences>
 
 ## Work Experience {style="page-break-before: no"}
 
