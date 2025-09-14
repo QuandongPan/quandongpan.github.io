@@ -23,7 +23,7 @@ Website: <https://quandongpan.github.io/>
 
 ## Research Interests:
 
--   I am driven to understand the **fundamental principles** of processes like **pattern formation, morphogenesis, and regeneration**, through modeling the intricate **dynamics** of **gene regulatory networks** and the **epigenetic landscape**, ultimately seeking to control these systems through the combined power of **systems biology** and **genetic engineering**.
+-   I am driven to understand the fundamental principles underlying biological processes like pattern formation, morphogenesis, and regeneration etc, through employing experimental and computational techniques, including scRNA‐seq, multi-omics integration,modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of systems biology and bioengineering.
 
 ## Fields of Interest in General:
 
@@ -37,23 +37,21 @@ Website: <https://quandongpan.github.io/>
 
 -   Developmental Biology
 
--   Regeneration, Morphogenesis and Self-Organization
+-   Regeneration and Morphogenesis
+
+-   Self-Organization and Emergence
 
 -   Multiscale Analysis of Cellular Systems
 
 -   Complex Systems Modeling
 
--   Swarm Intelligence and Emergence
-
 -   Network Science
+
+-   Swarm/Collective Intelligence
 
 -   Evolutionary Game Theory
 
--   Non-linear Dynamics
-
 -   Convergent Evolution of GRNs
-
--   Attractor Landscape Analysis
 
 ## Education
 
@@ -132,8 +130,8 @@ International Institute of Child Study, Zhejiang Normal University
 
 -   Programming Language：
 
-    -   R Language (Intermediate)
-    -   MATLAB and Python (Beginner)
+    -   R Language
+    -   MATLAB and Python
 
 -   Software and Platform: R Studio, MATLAB, Github, NetLogo
 
