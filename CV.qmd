@@ -12,6 +12,8 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
+(He/Him)
+
 quandong.pan\@email.uni-freiburg.de
 
 Website: <https://quandongpan.github.io/>
@@ -23,35 +25,33 @@ Website: <https://quandongpan.github.io/>
 
 ## Research Interests:
 
--   I am driven to understand the **fundamental principles underlying biological processes** like pattern formation, morphogenesis, and regeneration etc, through employing **experimental and computational techniques**, including scRNA‐seq, multi-omics integration,modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of **systems biology and bioengineering**.
+-   I am driven to understand the **fundamental principles underlying biological processes** like pattern formation, regeneration and multicellularity etc, through employing **experimental and computational techniques**, including scRNA‐seq, multi-omics integration, modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of **systems biology and bioengineering**.
 
 ## Fields of Interest in General:
 
 -   Systems Biology
 
--   Computational Biology
+-   Synthetic Biology & Biotechnology
 
--   Genetic Engineering
+-   Metabolic & Genetic Engineering
 
--   Evolutionary Biology
+-   Directed Evolution and Optimization
 
--   Developmental Biology
+-   Evolutionary Developmental Biology
 
 -   Regeneration and Morphogenesis
+
+-   Biofilms and Multicellularity
 
 -   Self-Organization and Emergence
 
 -   Multiscale Analysis of Cellular Systems
 
--   Complex Systems Modeling
+-   Network Science and Complex Systems Modeling
 
--   Network Science
+-   Attractor Landscape Analysis of GRNs
 
--   Swarm/Collective Intelligence
-
--   Evolutionary Game Theory
-
--   Convergent Evolution of GRNs
+ 
 
 ## Education
 
@@ -63,6 +63,20 @@ Website: <https://quandongpan.github.io/>
 
 <https://uni-freiburg.de/ucf/las/curriculum/#life-sciences>
 
+## Relevant Coursework
+
+-   Cell Biology
+
+-   Basic Chemistry and Biochemistry
+
+-   Genetics and Epigenetics
+
+-   Data Science with R
+
+-   Computational Genomics
+
+-   Human Cognition and Artificial Intelligence
+
 ## Work Experience {style="page-break-before: no"}
 
 ### Research Internship
@@ -71,11 +85,11 @@ Website: <https://quandongpan.github.io/>
 
 \[ 03/04/2024 – 30/04/2024 \]
 
-The lab focuses on elucidating the epigenetic mechnisms of caste transition and reversion in *Harpegnathos saltator* ant:
+The lab focuses on elucidating the epigenetic mechanisms of caste transition and reversion in *Harpegnathos saltator* ant:
 
 -   My role was primarily focused on conducting behavioral analysis of the *Harpegnathos saltator* ant colony during its transition phase induced by colony separation.
 
--   Other duties include ant colony maintenance, participating in weekly journal clubs etc.
+-   Other duties include ant colony maintenance, participating in weekly journal club discussion etc.
 
 ### **Research Assistant**
 
@@ -94,14 +108,10 @@ International Institute of Child Study, Zhejiang Normal University
 -   Horizons in Molecular Biology Symposium 2025 in Göttingen
 
     -   \[ 08/09/2025 – 11/09/2025 \] Max Planck Institute for Multidisciplinary Sciences
-
     -   Biochemistry and Molecular Biology, Cell Biology
-
     -   Genome Biology, Developmental Biology
-
     -   Structural Biology, Molecular Neuroscience, Computational Biology
-
-    -   Link: <https://www.mpinat.mpg.de/horizons>
+    -   Link: https://www.mpinat.mpg.de/horizons
 
 -   Life Sciences Annual Meeting 2024 in Switzerland
 
@@ -143,11 +153,11 @@ International Institute of Child Study, Zhejiang Normal University
 
 -   English
 
-    -   IELTs
+    -   IELTs (Scale of 9)
 
         -   (Overall 7.0, Listening 7.0, Reading 7.5, Speaking, 7.5, Writing 6.5)
 
-    -   PTE Academic
+    -   PTE Academic (Scale of 90)
 
         -   (Overall 86, Listening 80, Reading 90, Speaking, 72, Writing 90)
 
