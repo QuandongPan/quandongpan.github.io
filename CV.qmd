@@ -35,7 +35,7 @@ Website: <https://quandongpan.github.io/>
 
 -   Metabolic & Genetic Engineering
 
--   Directed Evolution and Optimization
+-   Directed Evolution and Optimization of Microorganisms
 
 -   Evolutionary Developmental Biology
 
@@ -77,11 +77,11 @@ Website: <https://quandongpan.github.io/>
 
 -   Human Cognition and Artificial Intelligence
 
-## Work Experience {style="page-break-before: no"}
+## Research Experience {style="page-break-before: no"}
 
-### Research Internship
+#### Research Internship [The Bonasio Lab](https://www.bonasiolab.org/#top)
 
-**University Hospital Freiburg**
+##### University Hospital Freiburg
 
 \[ 03/04/2024 – 30/04/2024 \]
 
@@ -95,7 +95,7 @@ The lab focuses on elucidating the epigenetic mechanisms of caste transition and
 
 **Human Movement and Motor Rehabilitation Laboratory**
 
-International Institute of Child Study, Zhejiang Normal University
+##### Zhejiang Normal University
 
 \[ 12/10/2021 – 02/12/2022 \]
 
@@ -111,7 +111,7 @@ International Institute of Child Study, Zhejiang Normal University
     -   Biochemistry and Molecular Biology, Cell Biology
     -   Genome Biology, Developmental Biology
     -   Structural Biology, Molecular Neuroscience, Computational Biology
-    -   Link: https://www.mpinat.mpg.de/horizons
+    -   Link: <https://www.mpinat.mpg.de/horizons>
 
 -   Life Sciences Annual Meeting 2024 in Switzerland
 
@@ -130,11 +130,12 @@ International Institute of Child Study, Zhejiang Normal University
     -   Brain Disease, Regeneration and Novel Technologies
     -   Link: <https://www.oeaw.ac.at/imba/seminars-events/past-events/sy-stem-2024>
 
--   Interdisciplinary College 2024 in Germany
+-   Interdisciplinary College 2024 of Complex Systems in Germany:
 
-    -   Computational Neuroscience, Linear Algebra, Machine Learning
-    -   Game theory, Theoretical Biology and Complex Dynamical Systems Simulation
-    -   Link: <https://interdisciplinary-college.org/#content> :::
+    -   \[ 01/03/2024 – 08/03/2024 \]
+    -   Computational Neuroscience, Machine Learning, Game theory
+    -   Theoretical Biology and Complex Dynamical Systems Simulation
+    -   Link: <https://interdisciplinary-college.org/program/>
 
 ## Skills
 
