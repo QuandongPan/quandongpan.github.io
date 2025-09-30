@@ -41,7 +41,7 @@ Website: <https://quandongpan.github.io/>
 
 -   Regeneration and Morphogenesis
 
--   Biofilms and Multicellularity
+-   Organoids, Biofilms and Multicellularity
 
 -   Self-Organization and Emergence
 
@@ -77,31 +77,33 @@ Website: <https://quandongpan.github.io/>
 
 -   Human Cognition and Artificial Intelligence
 
+-   Engineering with Living Materials
+
 ## Research Experience {style="page-break-before: no"}
 
-#### Research Internship [The Bonasio Lab](https://www.bonasiolab.org/#top)
+#### Research Internship—The Bonasio Lab
 
 ##### University Hospital Freiburg
 
+<https://www.bonasiolab.org/#top>
+
 \[ 03/04/2024 – 30/04/2024 \]
 
-The lab focuses on elucidating the epigenetic mechanisms of caste transition and reversion in *Harpegnathos saltator* ant:
+The lab focuses on the molecular mechanisms of epigenetic memory, particularly interested in elucidating the epigenetic mechanisms of caste transition and reversion in *Harpegnathos saltator* ant:
 
 -   My role was primarily focused on conducting behavioral analysis of the *Harpegnathos saltator* ant colony during its transition phase induced by colony separation.
 
--   Other duties include ant colony maintenance, participating in weekly journal club discussion etc.
+#### **Research Internship—**Molecular Biology of Archaea
 
-### **Research Assistant**
+##### University of Freiburg
 
-**Human Movement and Motor Rehabilitation Laboratory**
+<https://www.archaellum.org/research>
 
-##### Zhejiang Normal University
+\[ Sep 2025-Present \]
 
-\[ 12/10/2021 – 02/12/2022 \]
+-   The lab focuses on understanding the biogenesis of the archaeal cell envelope including processes like N-glycosylation, the assembly of macromolecular structures like pili and the archaellum, and celldivision and regulatory processes depending on protein phosphorylation.
 
--   The lab focuses on the behavioral correlates of neural mechanisms in the human brain.
-
--   I was trained on operating controlled EEG experiments on adult college volunteers, supervising them during the task of character recognition, conducting interviews and gathering information.
+-   I am trained on but not limited to cloning, sulfoobus genetics, phenotypical analysis, microscopy, motility assays, nucleotides isolation, biochemistry, overexpression in E. coli, protein purification etc.
 
 ## Conferences
 
