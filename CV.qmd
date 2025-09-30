@@ -91,6 +91,8 @@ Website: <https://quandongpan.github.io/>
 
 The lab focuses on the molecular mechanisms of epigenetic memory, particularly interested in elucidating the epigenetic mechanisms of caste transition and reversion in *Harpegnathos saltator* ant:
 
+-   My role was primarily focused on conducting behavioral analysis of the *Harpegnathos saltator* ant colony during its transition phase induced by colony separation.
+
 #### **Research Internship—**Molecular Biology of Archaea
 
 ##### University of Freiburg
