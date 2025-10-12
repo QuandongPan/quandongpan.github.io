@@ -59,8 +59,6 @@ format-links: [pdf]
 
 <br>
 
-{{< pagebreak >}}
-
 ## Education
 
 **Bachelor of Science -- Major: Life Sciences**
