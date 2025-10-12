@@ -12,20 +12,26 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-(He/Him)
+**(He/Him)**
 
-quandong.pan\@email.uni-freiburg.de
+**quandong.pan\@email.uni-freiburg.de**
 
-Website: <https://quandongpan.github.io/>
+**Website**: <https://quandongpan.github.io/>
 :::
+
+<br>
 
 ## “Embrace Complexity”
 
 -   *"There is no flood in a single raindrop, no financial crash in a single dollar, and no love in a single carbon atom. Yet, when combined under certain conditions, these simple elements create phenomena far greater and more complex than their individual parts." --- The Science of Complexity*
 
+<br>
+
 ## Research Interests:
 
--   I am driven to understand the **fundamental principles underlying biological processes** like pattern formation, regeneration and multicellularity etc, through employing **experimental and computational techniques**, including scRNA‐seq, multi-omics integration, modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of **systems biology and bioengineering**.
+-   I am driven to understand the **fundamental principles underlying biological processes** like regeneration, pattern formation and multicellularity etc, through employing **experimental and computational techniques**, including scRNA‐seq, multi-omics integration, modeling the intricate dynamics of gene regulatory networks and the epigenetic landscape, ultimately seeking to control these systems through the combined power of **systems biology and bioengineering**.
+
+<br>
 
 ## Fields of Interest in General:
 
@@ -51,17 +57,21 @@ Website: <https://quandongpan.github.io/>
 
 -   Attractor Landscape Analysis of GRNs
 
- 
+<br>
+
+{{< pagebreak >}}
 
 ## Education
 
 **Bachelor of Science -- Major: Life Sciences**
 
-*University of Freiburg*
+***University of Freiburg***
 
 *Oct 2022 --- Present*
 
 <https://uni-freiburg.de/ucf/las/curriculum/#life-sciences>
+
+<br>
 
 ## Relevant Coursework
 
@@ -79,9 +89,37 @@ Website: <https://quandongpan.github.io/>
 
 -   Engineering with Living Materials
 
+<br>
+
 ## Research Experience {style="page-break-before: no"}
 
-#### Research Internship—The Bonasio Lab
+### **Research Internship—Baumeister Lab**
+
+#### Bioinformatics & Molecular Genetics
+
+##### University of Freiburg, Faculty of Biology
+
+<https://celegans.biologie.uni-freiburg.de/?page_id=391>
+
+\[ Oct 2025-Present \]
+
+-   The lab studies stress response and signaling pathways in *C. elegans,* which includes:
+
+    -   Cross talk between insulin and TOR signaling in tumorigenesis and stress response
+
+    -   Signaling function of Parkinson’s Disease genes
+
+    -   Mitochondrial stress response
+
+-   I acquired skills of transgenic *C. elegans* construction, RNAi mediated gene control, fluorescence microscopy, phenotypical and survival analysis etc.
+
+<br>
+
+{{< pagebreak >}}
+
+### Research Internship—The Bonasio Lab
+
+#### Molecular Mechanisms of Epigenetic Memory
 
 ##### University Hospital Freiburg
 
@@ -93,17 +131,7 @@ The lab focuses on the molecular mechanisms of epigenetic memory, particularly i
 
 -   My role was primarily focused on conducting behavioral analysis of the *Harpegnathos saltator* ant colony during its transition phase induced by colony separation.
 
-#### **Research Internship—**Molecular Biology of Archaea
-
-##### University of Freiburg
-
-<https://www.archaellum.org/research>
-
-\[ Sep 2025-Present \]
-
--   The lab focuses on understanding the biogenesis of the archaeal cell envelope including processes like N-glycosylation, the assembly of macromolecular structures like pili and the archaellum, and celldivision and regulatory processes depending on protein phosphorylation.
-
--   I am trained on but not limited to cloning, sulfoobus genetics, phenotypical analysis, microscopy, motility assays, nucleotides isolation, biochemistry, overexpression in E. coli, protein purification etc.
+<br>
 
 ## Conferences
 
@@ -139,6 +167,10 @@ The lab focuses on the molecular mechanisms of epigenetic memory, particularly i
     -   Theoretical Biology and Complex Dynamical Systems Simulation
     -   Link: <https://interdisciplinary-college.org/program/>
 
+<br>
+
+{{< pagebreak >}}
+
 ## Skills
 
 -   Programming Language：
@@ -149,6 +181,8 @@ The lab focuses on the molecular mechanisms of epigenetic memory, particularly i
 -   Software and Platform: R Studio, MATLAB, Github, NetLogo
 
 -   Basic Skills in Molecular and Experimental Biology
+
+<br>
 
 ## Language Proficiency
 
