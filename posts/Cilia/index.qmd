@@ -1,0 +1,42 @@
+---
+title: "The Beauty of Cilia"
+description: "blog post description"
+author:
+  - name: Quandong Pan
+    url: https://quandongpan.github.io/
+    #affiliation: 
+    #affiliation-url: 
+#date: 10-24-2022
+categories: [Cilia]
+citation:
+  url: https://quandongpan.github.io/posts/Cilia/
+bibliography: references.bib
+#image: preview-image.png
+draft: false
+---
+
+Introduction
+
+Basic Biology of Cilia
+
+Role and Function
+
+Where is it found
+
+Different forms of cilia in animals
+
+Interesting research findings
+
+take home messages
+
+have you ever wondered how does the cilia beating pattern form?
+
+why groups of cilia beating in one direction instead of another?
+
+what's the role of mucus in shaping cilia beating polarity?
+
+what's the molecular basis of cilia polarity?
+
+These questions will be answered in the next post, stay tuned!
+
+if you enjoy reading my content, subscribe to my newsletter\>\>

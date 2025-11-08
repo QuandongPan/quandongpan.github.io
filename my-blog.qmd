@@ -7,3 +7,5 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 format: html
 ---
+
+You can find a range of different topics covered in my blog page, it serves both as a documentation of my personal growth and also educational resources to help make scientific knowledge more accessible, unveiling its beauty to the general public.
